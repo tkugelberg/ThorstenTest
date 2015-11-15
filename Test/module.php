@@ -1,5 +1,5 @@
 <?
-class Ivona extends IPSModule
+class ThorstenTest extends IPSModule
 {
     
     public function Create()
