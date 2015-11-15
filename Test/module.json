@@ -1,0 +1,11 @@
+{
+  "id": "{BC09E249-2835-4BC5-956F-5C958394BD0F}",
+  "name": "ThorstenTest",
+  "type": 3,
+  "vendor": "",
+  "aliases": [ "Test" ],
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "TKTEST"
+}
