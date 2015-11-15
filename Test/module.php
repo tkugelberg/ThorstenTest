@@ -18,7 +18,7 @@ class ThorstenTest extends IPSModule
         
     }
     
-    public function optional($test, $optinal = false)
+    public function optional($mandatory, $optional=false)
     {
 
     }
