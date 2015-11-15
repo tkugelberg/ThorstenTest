@@ -18,7 +18,7 @@ class ThorstenTest extends IPSModule
         
     }
     
-    public function getMP3($text, $optinal = false)
+    public function optional($test, $optinal = false)
     {
 
     }
